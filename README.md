@@ -2,7 +2,7 @@
 
 <center><img src="/banner.jpg" alt="banner" width="400" height="320"/></center>
 
-O dataset se refere a dados de uma empresa ficticia de produtos eletônicos com os dados de vendas num determinado periodo. O objetivo deste desafio está em responder as perguntas abaixo.
+O dataset disponibilizado é de uma empresa ficticia do ramo de venda produtos eletônicos num determinado periodo. O objetivo deste desafio está em responder as perguntas abaixo.
 
 ## Perguntas
 
@@ -107,9 +107,4 @@ Os produtos: "1515966223523303302", "1515966223523303301", "1515966223523303308"
 - Quantos produtos unicos possuem cada uma das categorias?
 - Qual a porcentagem do faturamento representa cada categoria
 - Qual o valor maximo de uma unica em 2020? E em cada mês?
-
-
-
-
-
-
+- Cohort
