@@ -4,7 +4,7 @@
 
 O dataset disponibilizado é de uma empresa ficticia do ramo de venda produtos eletônicos num determinado periodo. O objetivo deste desafio está em responder as perguntas abaixo.
 
-## Perguntas
+### Perguntas
 
     P1: Qual horário temos mais vendas? 
 
@@ -21,7 +21,7 @@ O dataset disponibilizado é de uma empresa ficticia do ramo de venda produtos e
     P7: Quais são os top 5 produtos de maior venda 2020?
 
 
-## Bonus: 
+### Bonus: 
 
     P9: Qual tipo de informação você considera importante para compor uma análise de cliente? 
 
@@ -43,7 +43,7 @@ O dataset disponibilizado é de uma empresa ficticia do ramo de venda produtos e
 
 # Desevolvimento
 
-O projeto foi desenvolvido tanto em python quanto PowerBI. No python foi feito o tratamento de dados mais detalhado e a analise exploratória de dados, enquanto no BI foi feito a apresentação em dashboard de forma também a conseguir responder as perguntas propostas anteriormente. Importante ressaltar que independente da ferramenta os resultados tem que ser os mesmo, o que foi conseguido também nesse projeto.
+O projeto foi desenvolvido tanto em python quanto PowerBI. No python foi feito o tratamento de dados mais e a analise exploratória de dados, enquanto no BI foi feito a apresentação em dashboard. Importante ressaltar que independente da ferramenta os resultados tem que ser os mesmo, este foi um ponto que foi concluido com exito nesse projeto.
 
 Apresentação: [Python](https://github.com/alyssonvidal/exercicio_eda/blob/main/exercicio.ipynb)<br>
 Apresentação: [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOWViZmMwZTktMjdlYS00YTM3LWE4NjEtN2M0ODc4YjYyMzk3IiwidCI6ImQyZGYwZGI4LTM3MmYtNDExZS1iOTQ1LWRlYzRjZTU3MWI4NSJ9)
